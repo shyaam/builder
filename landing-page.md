@@ -1,7 +1,7 @@
 ---
 layout: blocks
 title: Landing Page
-date: 2020-05-15 08:30:00 +0000
+date: 2020-05-15 14:00:00 +0530
 page_sections:
 - template: navigation-header-w-button
   block: header-2
